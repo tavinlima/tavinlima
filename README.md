@@ -18,6 +18,9 @@
 ### Contact me!
   <a href="https://www.linkedin.com/in/gustavo-lima-217b01214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  
+  <p>
+<img src="https://komarev.com/ghpvc/?username=tavinlima&label=Profile%20views&color=blue&style=flat" alt="Gustavo_Lima"/>
+</p>
+   
   <img align = "center" src="https://media.giphy.com/media/1qiywDYLLAk3jpDBaE/giphy.gif" alt="this slowpoke moves"  width="550" alt="spiderman-gif"/> 
   
