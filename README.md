@@ -8,6 +8,7 @@
 - 🌱 I’m learning System Development at SENAI de informática
 - 📚 Studying English
 - 🌎 Brazil
+- 🤖 Also studying how to make alexa's skills (A.I)
    
   <a href="https://github.com/tavinlima">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tavinlima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
