@@ -25,3 +25,4 @@
    
   <img align = "center" src="https://media.giphy.com/media/1qiywDYLLAk3jpDBaE/giphy.gif" alt="this slowpoke moves"  width="550" alt="spiderman-gif"/> 
   
+![Snake animation](https://github.com/tavinlima/tavinlima/blob/output/github-contribution-grid-snake.svg)
