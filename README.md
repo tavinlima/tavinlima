@@ -2,7 +2,7 @@
 
 
 
-- ✌🏼 I'm 16 years old
+- ✌🏼 I'm 17 years old
 - 😄 Pronouns: he/him (ele/dele)                                          
 - 🔭 I’m currently working as Jovem Aprendiz in FIESP
 - 🌱 I’m learning System Development at SENAI de informática
