@@ -1,14 +1,13 @@
-## Hi! I'm Gustavo Lima! Welcome to my GitHub 💻
+## Oi! Eu sou o Gustavo Lima! Bem vindo ao meu GitHub 💻
 
 
 
-- ✌🏼 I'm 17 years old
-- 😄 Pronouns: he/him (ele/dele)                                          
-- 🔭 I’m currently working as Jovem Aprendiz in FIESP
-- 🌱 I’m learning System Development at SENAI de informática
+- ✌🏼 17 anos
+- 😄 Pronomes: he/him (ele/dele)                                          
+- 🌱 Formado em Desenvolvimento de Sistemas no SENAI
 - 📚 Studying English
-- 🌎 Brazil
-- 🤖 Also studying how to make alexa's skills (A.I)
+- 🌎 Brasil
+- 🤖 Estudando sobre como fazer skills para a Alexa (A.I)
    
   <a href="https://github.com/tavinlima">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tavinlima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
