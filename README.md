@@ -2,7 +2,7 @@
 
 
 
-- ✌🏼 17 anos
+- ✌🏼 18 anos
 - 😄 Pronomes: he/him (ele/dele)                                          
 - 🌱 Formado em Desenvolvimento de Sistemas no SENAI
 - 📚 Studying English
