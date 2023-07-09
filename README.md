@@ -5,7 +5,7 @@
 - ✌🏼 18 anos
 - 😄 Pronomes: he/him (ele/dele)                                          
 - 🌱 Formado em Desenvolvimento de Sistemas no SENAI
-- 📚 Studying English
+- 📚 Cursando Análise e Desenvolvimento de Sistemas no IFSP!
 - 🌎 Brasil
 - 🤖 Estudando sobre como fazer skills para a Alexa (A.I)
    
