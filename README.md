@@ -2,7 +2,7 @@
 
 
 
-- ✌🏼 18 anos
+- ✌🏼 19 anos
 - 😄 Pronomes: he/him (ele/dele)                                          
 - 🌱 Formado em Desenvolvimento de Sistemas no SENAI
 - 📚 Cursando Análise e Desenvolvimento de Sistemas no IFSP!
