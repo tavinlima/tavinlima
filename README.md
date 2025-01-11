@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Gustavo Lima! Bem vindo ao meu GitHub 💻
 he/him (ele/dele)
 
-Estudo programação desde 2021, porém a paixão por tecnologia está em mim desde sempre!
+Estudo programação desde 2021, porém a paixão por tecnologia está comigo desde sempre!
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSP e formado no técnico em Desenvolvimento de Sistemas no SENAI de Informática.
 
