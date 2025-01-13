@@ -14,6 +14,7 @@ Possuo conhecimento em:
 <div>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React JS">
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
+<img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor">
 </div>
 
 <h2>Back-end:</h2>
@@ -27,18 +28,18 @@ Possuo conhecimento em:
 <div>
    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB">
-   <img src="https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white alt="SnowFlake">
+   <img src="https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white" alt="SnowFlake">
 </div>
 
 <h2>Outras ferramentas:</h2>
-<div>
+<div justify-content=center>
 Azure DevOps |
 ClickUp |
 Trello |
 Figma |
 Miro |
 ServiceNow |
-Alexa Skills Kit
+Alexa Skill Kit
 </div>
 
 <h2>Github Stats:</h2>
