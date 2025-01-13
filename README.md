@@ -1,5 +1,4 @@
 ## Oi! Eu sou o Gustavo Lima! Bem vindo ao meu GitHub 💻
-he/him (ele/dele)
 
 Estudo programação desde 2021, porém a paixão por tecnologia está comigo desde sempre!
 
