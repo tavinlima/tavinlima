@@ -4,7 +4,7 @@ Estudo programação desde 2021, porém a paixão por tecnologia está comigo de
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSP e formado no técnico em Desenvolvimento de Sistemas no SENAI de Informática.
 
-Embora meu foco nos estudos seja como desenvolvedor, atualmente atuo como Product Owner de canais digitais da Azul Cargo Express, o que me dá uma visão mais ampla da carreira em tecnologia.
+Entre out/23 até jan/25 atuei como Product Owner na equipe de Canais Digitais da Azul Cargo Express na Azul Linhas Aéreas, porém atualmente atuo como desenvolvedor na mesma equipe.
 
 Possuo conhecimento em:
 
