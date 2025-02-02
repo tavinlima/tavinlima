@@ -44,7 +44,7 @@ Alexa Skill Kit
 <h2>Github Stats:</h2>
   <a href="https://github.com/tavinlima">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tavinlima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tavinlima&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tavinlima&exclude_repo=SENAI_WorldSkills_Desafio01&layout=compact&langs_count=8&theme=radical&locale=pt-br&hide=TSQL"/>
 
   
 ### Contact me!
