@@ -23,7 +23,7 @@ Possuo conhecimento em:
 </div>
 
 
-<h2>Banco de dados:</h2>
+<h2>Dados:</h2>
 <div>
    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB">
