@@ -2,7 +2,7 @@
 
 Estudo programação desde 2021, porém a paixão por tecnologia está comigo desde sempre!
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSP e formado no técnico em Desenvolvimento de Sistemas no SENAI de Informática.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSP e formado como técnico em Desenvolvimento de Sistemas no SENAI de Informática.
 
 Entre out/23 e jan/25 atuei como Product Owner na equipe de Canais Digitais da Azul Cargo Express na Azul Linhas Aéreas, atualmente atuo como desenvolvedor na mesma equipe.
 
