@@ -1,4 +1,4 @@
-## Oi! Eu sou o Gustavo Lima! Bem vindo ao meu GitHub 💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=FFF&background=FFFFFF00&vCenter=true&repeat=true&random=true&width=500&height=50&lines=Oi!+Eu+sou+o+Gustavo!+Bem+vindo+ao+meu+GitHub+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 Estudo programação desde 2021, porém a paixão por tecnologia está comigo desde sempre!
 
