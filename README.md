@@ -4,7 +4,9 @@ Estudo programação desde 2021, porém a paixão por tecnologia está comigo de
 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSP e formado como técnico em Desenvolvimento de Sistemas no SENAI de Informática.
 
-Entre out/23 e jan/25 atuei como Product Owner na equipe de Canais Digitais da Azul Cargo Express na Azul Linhas Aéreas, atualmente atuo como desenvolvedor na mesma equipe.
+Entre out/23 e jan/25 atuei como estagiário com atribuições de Product Owner na equipe de Canais Digitais da Azul Cargo Express na Azul Linhas Aéreas, e entre jan/25 até maio/25 atuei como desenvolvedor em uma solução de chatbot!
+
+Atualmente estou como estagiário no banco Itaú, na área de gerenciamento de produtos (Product Management), especificamente no gerenciamento de empréstimo pessoal no aplicativo, desenvolvendo principalmente minha capacidade de data analytics para definição da evolução do produto.
 
 Possuo conhecimento em:
 
