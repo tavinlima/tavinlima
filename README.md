@@ -21,6 +21,7 @@ Possuo conhecimento em:
 <h2>Back-end:</h2>
 <div>
    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt = "CSharp">
+   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" alt = "Java">
 </div>
 
 
